@@ -1,4 +1,7 @@
 const exercicios = require("./exercice");
+import {
+    expect, test, describe
+} from "@jest/globals";
 
 describe("exercicios de teste", () => {
 
