@@ -1,3 +1,3 @@
 # jestexercices
 
-Exercises to teach my job friends about jest and basics development test drive
+Exercises to teach my job friends about jest and basics Test-driven development
